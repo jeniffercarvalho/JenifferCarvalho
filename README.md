@@ -5,8 +5,6 @@
 
 
 
----
-
 ## 👋 Sobre mim
 
 Profissional da área de Tecnologia da Informação, com foco em desenvolvimento web e suporte técnico em sistemas.
