@@ -11,13 +11,12 @@
 ---
 
 ## 🚀 Sobre mim
-┌──────────────────────────────────────────────┐
-│ 👩‍💻 Profissional de Tecnologia da Informação │
-│ 🎯 Suporte Técnico | Help Desk | Sistemas │
-│ 📈 Foco em evolução constante │
-│ 💡 Apaixonada por tecnologia e resolução de problemas │
-└──────────────────────────────────────────────┘
 
+👩‍💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, help desk, manutenção de sistemas e rotinas administrativas.
+
+🎯 Atuo com foco em resolução de problemas, atendimento ao usuário e apoio a sistemas internos.
+
+🚀 Estou em constante evolução na área de TI, buscando crescimento profissional e novos desafios na área de desenvolvimento e suporte.
 ---
 
 
