@@ -1,8 +1,11 @@
 
 <div align="center">
 
-<!-- DESENHO TECH (SVG TRANSPARENTE) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/developer/developer-original.svg" width="120"/>
+<!-- HEADER TECH AZUL/VERDE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Jeniffer%20Carvalho&fontSize=40&fontColor=ffffff" />
+
+<!-- DESENHO TECH (CIRCUITO INVISÍVEL / SVG) -->
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="80"/>
 
 </div>
 
