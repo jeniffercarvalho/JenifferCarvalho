@@ -5,8 +5,7 @@
 💻 Desenvolvedora Full Stack | Suporte Técnico | Help Desk  
 
 <br>
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrTtvkt/giphy.gif" width="220px">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="220px">
 
 </div>
 
