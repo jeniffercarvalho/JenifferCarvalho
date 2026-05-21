@@ -1,35 +1,23 @@
 # 👩‍💻 Jeniffer Carvalho
 
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+<div align="center">
 
-<!-- FOTO COM ARCO AZUL -->
-<div style="
-  width:150px;
-  height:150px;
-  border-radius:50%;
-  padding:5px;
-  background:linear-gradient(45deg,#3b82f6,#7c3aed,#3b82f6);
-  display:inline-block;
-">
+<table>
+<tr>
 
-<img src="perfil_01.jpg"
-     style="
-     width:100%;
-     height:100%;
-     border-radius:50%;
-     object-fit:cover;
-     border:3px solid #0f172a;
-     " />
+<td>
+<img src="perfil_01.jpg" width="120" style="border-radius:50%; border:3px solid #3b82f6;" />
+</td>
 
-</div>
+<td>
 
-<div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=120&section=header&text=Jeniffer%20Carvalho&fontSize=38&fontColor=ffffff" />
-
+# Jeniffer Carvalho  
 ### 💻 Desenvolvedora Full Stack | Suporte Técnico
 
-</div>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -37,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Analise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer;Suporte+T%C3%A9cnico+%7C+Help+Desk;React+%7C+Node.js+%7C+JavaScript" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Analise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer;Suporte+Tecnico+%7C+Help+Desk;React+%7C+Node.js+%7C+JavaScript" />
 
 </div>
 
@@ -53,10 +41,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em sup
 
 Atuar na área de Tecnologia da Informação como:
 
-- Full Stack Developer  
+- Desenvolvedora Full Stack  
 - Suporte Técnico / Help Desk  
 - Implantação de Sistemas  
-- Atendimento  
+- Atendimento ao Cliente  
 
 ---
 
@@ -83,11 +71,10 @@ Atuar na área de Tecnologia da Informação como:
 
 **R11 Comércio de Peças e Acessórios (2018 – 2022)**  
 
-- Rotinas administrativas e organização de processos
-- Controle de documentos e apoio em rotinas financeiras
-- Suporte técnico interno em computadores, sistemas e impressoras
-- Atendimento ao cliente e suporte aos colaboradores
-- Apoio na resolução de problemas operacionais do dia a dia
+- Rotinas administrativas e organização de processos  
+- Controle de documentos e apoio financeiro  
+- Suporte técnico interno em computadores, sistemas e impressoras  
+- Atendimento ao cliente e suporte operacional  
 
 ---
 
