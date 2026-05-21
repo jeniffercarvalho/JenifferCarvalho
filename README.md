@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Jeniffer Carvalho</h1>
 
 <p align="center">
-  <b>💻 Desenvolvedora Full Stack | Suporte Técnico </b>
+  <b>💻 Desenvolvedora Full Stack | Suporte Técnico</b>
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 💎 Sobre mim
 
-💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, help desk, manutenção de sistemas e rotinas administrativas.
+💻 Profissional de Tecnologia da Informação com experiência em suporte técnico, help desk, manutenção de sistemas e rotinas administrativas.  
 
-🎯 Atuo com foco em resolução de problemas, atendimento ao usuário e apoio a sistemas internos.
+🎯 Foco em resolução de problemas, atendimento ao usuário e suporte a sistemas internos.  
 
-🚀 Estou em constante evolução na área de TI, buscando crescimento profissional e novos desafios na área de desenvolvimento e suporte.
+🚀 Em constante evolução na área de tecnologia, buscando crescimento em desenvolvimento e infraestrutura.
 
 ---
 
@@ -27,17 +27,18 @@
 </p>
 
 ---
+
 ## 🎀 Ambiente de Trabalho
 
-<p align="center" style="color:#ff4fd8; font-weight:bold;">
+<p align="center">
 ┌──────────────────────────────┐<br>
-│ 💙 WORKSTATION FEMININA TECH │<br>
-│ 💻 Coding • Learning • Growing │<br>
+│ 💗 WORKSTATION FEMININA TECH │<br>
+│ 💻 coding • learning • growing │<br>
 └──────────────┬───────────────┘<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│<br>
 ┌──────────────▼───────────────┐<br>
-│ 💻 DEV MODE ON               │<br>
-│ ⚡ Build • Debug • Deploy    │<br>
+│ ⚡ DEV MODE ON               │<br>
+│ 🚀 build • debug • deploy    │<br>
 └──────────────────────────────┘
 </p>
 
@@ -45,61 +46,60 @@
 
 ## 📊 Experiência Profissional
 
-- 🖥️ Suporte técnico ao usuário (help desk), auxiliando na resolução de problemas com sistemas, computadores e impressoras  
-- 🖨️ Apoio na manutenção básica de impressoras e equipamentos de escritório (troca de cartuchos, identificação de falhas e suporte ao funcionamento)  
-- 📊 Atuação como Assistente Administrativo e Financeiro, com organização de rotinas administrativas e apoio operacional  
-- 💳 Controle e apoio em processos financeiros, incluindo organização de pagamentos e rotinas internas da empresa  
-- 🔧 Suporte ao gestor de TI em demandas do dia a dia, auxiliando na operação de sistemas internos e resolução de incidentes  
+- 🖥️ Suporte técnico (help desk), resolução de problemas em sistemas, computadores e impressoras  
+- 🖨️ Manutenção básica de impressoras (cartuchos, falhas e suporte operacional)  
+- 📊 Assistente Administrativo e Financeiro, organização de rotinas e processos internos  
+- 💳 Controle de pagamentos e apoio financeiro operacional  
+- 🔧 Suporte ao gestor de TI em sistemas internos e incidentes técnicos  
 
 ---
 
-### 📌 SBS Tecnologia Móvel
-🔗 https://sbstecnologiamovel  
-🧠 Projeto institucional voltado para tecnologia e soluções móveis, com foco em serviços e suporte.
+## 📌 Projetos
+
+### 💻 SBS Tecnologia Móvel
+🧠 Projeto institucional de tecnologia e soluções móveis  
 
 <p align="center">
-  <a href="https://sbstecnologiamovel">
-    <img src="sbs_02.jpg" width="200px">
-  </a>
+  <img src="sbs_02.jpg" width="180px">
 </p>
 
 ---
 
-### 📌 Nutri Ana Clara Almeida
-🔗 http://nutrianaclaraalmeida  
-🧠 Projeto institucional na área da saúde e nutrição, com foco em apresentação profissional e serviços.
+### 💻 Nutri Ana Clara Almeida
+🧠 Projeto institucional na área da saúde e nutrição  
 
 <p align="center">
-  <a href="http://nutrianaclaraalmeida">
-    <img src="nutricionista_01.jpg" width="200px">
-  </a>
+  <img src="nutricionista_01.jpg" width="180px">
 </p>
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como profissional de TI ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e crescimento dentro da área de tecnologia e desenvolvimento.
+Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
 
 ---
+
 ## 📫 Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="42" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="42" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Gmail-EC4899?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="42" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/WhatsApp-22C55E?style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
 
 </p>
 
+---
+
 <p align="center">
-  ⭐ "Tecnologia é transformar problemas em soluções." ⭐
+  ⭐ “Tecnologia é transformar problemas em soluções com criatividade e propósito.” ⭐
 </p>
