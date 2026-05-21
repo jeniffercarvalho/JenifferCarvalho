@@ -60,14 +60,30 @@ Estou sempre em busca de crescimento profissional e novos desafios na área de T
 
 ---
 
-## 🚀 Projetos em Destaque
+### 📌 SBS Tecnologia Móvel
+🔗 https://sbstecnologiamovel  
+🧠 Projeto institucional voltado para tecnologia e soluções móveis, com foco em serviços e suporte.
 
-📌 Sistema Institucional (em desenvolvimento)  
-📌 Portfólio Pessoal no GitHub  
-📌 Projetos com React e Node.js  
-📌 Automação e scripts básicos  
+<p align="center">
+  <a href="https://sbstecnologiamovel">
+    <img src="https://via.placeholder.com/300x160.png?text=SBS+Tecnologia+Movel" width="300px">
+  </a>
+</p>
 
 ---
+
+### 📌 Nutri Ana Clara Almeida
+🔗 http://nutrianaclaraalmeida  
+🧠 Projeto institucional na área da saúde e nutrição, com foco em apresentação profissional e serviços.
+
+<p align="center">
+  <a href="http://nutrianaclaraalmeida">
+    <img src="https://via.placeholder.com/300x160.png?text=Nutri+Ana+Clara+Almeida" width="300px">
+  </a>
+</p>
+
+---
+
 
 ## 🎯 Objetivo Profissional
 
