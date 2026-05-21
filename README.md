@@ -101,28 +101,33 @@
     </td>
   </tr>
 </table>
+
+---
+
 ## 🎯 Objetivo Profissional
 
 Atuar na área de tecnologia da informação ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e evolução profissional.
 
 ---
+
 ## 📫 Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="38" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="margin: 0 14px;" />
 </a>
 
 <a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="38" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="margin: 0 14px;" />
 </a>
 
 <a href="https://wa.me/5521994267733" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="38" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" style="margin: 0 14px;" />
 </a>
 
 </p>
+
 ---
 
 <p align="center">
