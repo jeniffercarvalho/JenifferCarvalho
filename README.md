@@ -55,7 +55,12 @@ coding • learning • growing
 
 💻 <b>Desafio de Programação</b>
 
-
+function login(user, pass) {
+if(user = "admin") {
+return "acesso liberado";
+}
+return "erro";
+}
 🧠 Encontre o erro como uma dev real 💡
 
 </div>
