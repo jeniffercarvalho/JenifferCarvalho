@@ -1,10 +1,13 @@
 
-<img src="perfil_01.jpg" width="120" align="left" />
+<div align="center">
 
-# Jeniffer Carvalho  
+<!-- DESENHO TECH (SVG TRANSPARENTE) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/developer/developer-original.svg" width="120"/>
+
+</div>
+
+# 💙 Jeniffer Carvalho  
 ### 💻 Desenvolvedora Full Stack | Suporte Técnico  
-
-<br><br>
 
 ---
 
@@ -58,7 +61,7 @@ Atuar na área de Tecnologia da Informação como:
 **R11 Comércio de Peças e Acessórios (2018 – 2022)**  
 
 - Rotinas administrativas  
-- Controle de documentos e apoio financeiro  
+- Controle de documentos  
 - Suporte técnico interno em sistemas e computadores  
 - Atendimento operacional interno  
 
@@ -72,4 +75,4 @@ Atuar na área de Tecnologia da Informação como:
 
 ---
 
-💡 *Tecnologia é transformar problemas em soluções reais.*
+💙 *Tecnologia é transformar problemas em soluções reais.*
