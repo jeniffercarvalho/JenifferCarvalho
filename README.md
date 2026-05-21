@@ -82,19 +82,31 @@
 Atuar como profissional de TI ou suporte técnico, contribuindo com soluções eficientes, aprendizado contínuo e crescimento dentro da área de tecnologia e desenvolvimento.
 
 ---
-
 ## 📫 Contato
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Vamos+nos+conectar+🚀;Disponível+para+novas+oportunidades" />
+</p>
 
-💼 LinkedIn: <a href="https://www.linkedin.com/in/jeniffercarvalho">jeniffercarvalho</a><br><br>
+<p align="center">
 
-📧 Email: <a href="mailto:jeni.silva.sj@gmail.com">jeni.silva.sj@gmail.com</a><br><br>
+<a href="https://www.linkedin.com/in/jeniffercarvalho" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
 
-📱 WhatsApp: <a href="https://wa.me/5521994267733">21 99426-7733</a>
+<a href="mailto:jeni.silva.sj@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E-mail-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
+
+<a href="https://wa.me/5521994267733" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111827" />
+</a>
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeniffercarvalho&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 <p align="center">
