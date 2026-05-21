@@ -1,9 +1,12 @@
-<img src="perfil_01.jpg" width="110" align="left" style="border-radius:50%; margin-right:15px;" />
+
+<img src="perfil.png" width="110" align="left" />
 
 # Jeniffer Carvalho  
 💻 **Desenvolvedora Full Stack | Suporte Técnico**
 
+<br>
 
+---
 
 ## 👋 Sobre mim
 
