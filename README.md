@@ -1,7 +1,12 @@
-<img src="perfil_01.jpg" width="110" align="left" /> 
-# Jeniffer Carvalho  
 
-💻 **Desenvolvedora Full Stack | Suporte Técnico**
+<div align="left">
+
+<img src="perfil_01.jpg" width="120" align="left" />
+
+</div>
+
+# Jeniffer Carvalho  
+### 💻 Desenvolvedora Full Stack | Suporte Técnico  
 
 <br>
 
@@ -24,7 +29,6 @@ Atuar na área de Tecnologia da Informação como:
 - Desenvolvedora Full Stack  
 - Suporte Técnico / Help Desk  
 - Implantação de Sistemas  
-- Atendimento ao Cliente  
 
 ---
 
@@ -72,4 +76,4 @@ Atuar na área de Tecnologia da Informação como:
 
 ---
 
-💡 "Tecnologia é transformar problemas em soluções reais."
+💡 *Tecnologia é transformar problemas em soluções reais.*
