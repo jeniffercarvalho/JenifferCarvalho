@@ -12,7 +12,7 @@
   display:inline-block;
 ">
 
-<img src="perfil_01"
+<img src="perfil_01.jpg"
      style="
      width:100%;
      height:100%;
