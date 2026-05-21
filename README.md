@@ -1,31 +1,21 @@
-# 👩‍💻 Jeniffer Carvalho
-
 <div align="center">
 
 <table>
 <tr>
 
 <td>
-<img src="perfil_01.jpg" width="120" style="border-radius:50%; border:3px solid #3b82f6;" />
+<img src="perfil_01.jpg" width="120" style="border-radius:50%;" />
 </td>
 
-<td>
+<td align="left">
 
 # Jeniffer Carvalho  
-### 💻 Desenvolvedora Full Stack | Suporte Técnico
+💻 **Desenvolvedora Full Stack | Suporte Técnico**
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Analise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer;Suporte+Tecnico+%7C+Help+Desk;React+%7C+Node.js+%7C+JavaScript" />
 
 </div>
 
@@ -48,7 +38,7 @@ Atuar na área de Tecnologia da Informação como:
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 - HTML5 / CSS3  
 - JavaScript  
@@ -56,14 +46,24 @@ Atuar na área de Tecnologia da Informação como:
 - Node.js  
 - MySQL  
 - Git e GitHub  
+- Postman  
 - VS Code  
 
 ---
 
 ## 🚀 Projetos
 
-- 🔗 Projeto 1 (adicione link)
-- 🔗 Projeto 2 (adicione link)
+### 💻 SB Tecnologia Móvel  
+🔗 http://sbstecnologiamovel  
+
+Projeto institucional voltado para tecnologia, com foco em apresentação de serviços e soluções digitais.
+
+---
+
+### 🥗 Nutri Ana Clara Almeida  
+🔗 http://nutrianaclaraalmeida  
+
+Projeto institucional na área de nutrição, com foco em apresentação profissional e serviços ao cliente.
 
 ---
 
