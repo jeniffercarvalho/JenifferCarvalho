@@ -22,10 +22,10 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 ---
 
-## 🧠 Stack Tecnológica
+## 🧠 Stack Tecnológica 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css" />
 </p>
 
 ---
