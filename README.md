@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou a Jeniffer Carvalho  
 
-💻 Full Stack Developer em formação| Suporte Técnico
+💻 Full Stack em formação| Suporte Técnico
 
 <br>
 
@@ -53,9 +53,11 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 ✔ Apresentação de projetos e tecnologias  
 ✔ Integração com GitHub e redes profissionais  
 
-🔗 https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/
+🛠 Tecnologias utilizadas:  
+HTML • CSS • JavaScript • Node.js • GitHub  
 
----
+🔗 Acesse o projeto:  
+https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/
 
 ### 💻 Nutri Ana Clara Almeida
 
@@ -63,18 +65,11 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 ✔ Site informativo profissional  
 ✔ Layout moderno  
 
+🛠 Tecnologias utilizadas:  
+HTML • CSS • JavaScript • GitHub  
+
+🔗 Acesse o projeto:  
 🔗 https://nutri-ana-clara-almeida.github.io/nutrianaclara/
-
----
-### 📱 SBS Tecnologia Móvel
-
-🧠 Projeto institucional voltado para tecnologia, suporte técnico e soluções digitais para empresas e usuários.
-
-✔ Serviços de suporte e manutenção tecnológica  
-✔ Apresentação institucional da empresa  
-✔ Layout moderno e navegação intuitiva  
-
-🔗 https://sbstecnologiamovel.github.io/sbstecnologiamovel/
 
 ---
 
