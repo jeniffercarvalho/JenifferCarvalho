@@ -38,8 +38,7 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 - 💻 Suporte técnico (Help Desk) para sistemas, computadores e usuários  
 - 🖨️ Instalação e manutenção básica de impressoras e resolução de erros  
-- 📊 Apoio ao setor administrativo e financeiro  
-- 💰 Controle de pagamentos e rotinas financeiras  
+- 📊 Apoio ao setor administrativo  
 - 🛠️ Suporte em sistemas internos da empresa  
 
 ---
