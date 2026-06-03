@@ -34,7 +34,7 @@ Em constante evolução na área de tecnologia, com interesse em desenvolvimento
 
 🏢 R11 Comércio de Peças e Acessórios
  2018 – 2022  
-💼 **Assistente Administrativo e Financeiro | Suporte Técnico (Help Desk)**
+💼 **Suporte Técnico (Help Desk) | Assistente Administrativa**
 
 - 💻 Suporte técnico (Help Desk) para sistemas, computadores e usuários  
 - 🖨️ Instalação e manutenção básica de impressoras e resolução de erros  
