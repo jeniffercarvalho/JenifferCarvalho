@@ -1,106 +1,74 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Jeniffer Carvalho  
+<img src="developer-banner.png" alt="Jeniffer Carvalho, desenvolvedora web e fundadora do SD PDV" width="100%" />
 
-💻 Desenvolvedora Web | Análise de Sistemas | Suporte Técnico
+# Jeniffer Carvalho
 
-<br>
+### Desenvolvedora Web · Analista de Sistemas em formação · Fundadora do SD PDV
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350px">
+Construo aplicações web e sistemas de gestão, unindo desenvolvimento, análise de processos e experiência prática em suporte técnico.
+
+[LinkedIn](https://www.linkedin.com/in/jeniffercarvalho) · [Portfólio](https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/) · [Projetos no GitHub](https://github.com/jeniffercarvalho?tab=repositories)
 
 </div>
 
 ---
 
-## 💎 Sobre mim
+## Sobre mim
 
-Profissional de Tecnologia da Informação com experiência em suporte técnico, help desk, manutenção de sistemas e rotinas administrativas.
+Sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas** e tenho experiência profissional em suporte ao usuário, Help Desk e rotinas administrativas. Atualmente, desenvolvo projetos web com foco em aplicações úteis, organização de processos e solução de problemas reais.
 
-Atuação focada em resolução de problemas, atendimento ao usuário e suporte a sistemas internos.
+Tenho interesse em oportunidades júnior nas áreas de **Desenvolvimento Web** e **Análise de Sistemas**, além de posições que valorizem minha experiência em suporte técnico.
 
-Em constante evolução na área de tecnologia, com interesse em desenvolvimento full stack e infraestrutura.
+## Projeto em destaque
 
----
+### SD PDV — Gestão Inteligente
 
-## 🧠 Stack Tecnológica 
+Sistema SaaS de gestão comercial que desenvolvo para reunir rotinas operacionais e administrativas em uma aplicação web. O projeto contempla diferentes segmentos de comércio, com recursos organizados conforme o contexto de cada negócio.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql,git,github,html,css" />
+- **Operação:** vendas e PDV, caixa, pedidos, delivery, agenda e ordens de serviço.
+- **Gestão:** clientes, produtos, estoque, financeiro e relatórios.
+- **Plataforma:** autenticação, separação de dados por empresa e permissões de acesso.
+
+[Acessar o sistema](https://sdpdv.com.br) · [Ver repositório](https://github.com/jeniffercarvalho/saas-pdv)
+
+### Tecnologias do projeto
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Recharts" src="https://img.shields.io/badge/Recharts-22B5BF?style=flat" />
+  <img alt="jsPDF" src="https://img.shields.io/badge/jsPDF-E34F26?style=flat" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
----
+## Outros projetos
 
-## 📊 Experiência Profissional
+- **[Portfólio profissional](https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/)** — apresentação da minha trajetória e dos meus projetos. Desenvolvido com HTML, CSS, JavaScript e Node.js/Express.
+- **[Nutri Ana Clara Almeida](https://nutri-ana-clara-almeida.github.io/nutrianaclara/)** — site institucional desenvolvido com HTML, CSS e JavaScript.
 
-🏢 R11 Comércio de Peças e Acessórios
- 2018 – 2022  
-💼 **Suporte Técnico (Help Desk) | Assistente Administrativa**
+## Experiência profissional
 
-- 💻 Suporte técnico (Help Desk) para sistemas, computadores e usuários  
-- 🖨️ Instalação e manutenção básica de impressoras e resolução de erros  
-- 📊 Apoio ao setor administrativo  
-- 🛠️ Suporte em sistemas internos da empresa  
+**R11 Comércio de Peças e Acessórios** · 2018–2022  
+Atuei como **Suporte ao Usuário / Help Desk e Assistente Administrativa**, auxiliando usuários com sistemas e equipamentos e apoiando processos e rotinas administrativas.
 
----
+## Formação
 
-## 📌 Projetos
+**Análise e Desenvolvimento de Sistemas** · Gran Faculdade  
+Graduação em andamento.
 
-### 💻 Portfólio Profissional
+## Contato
 
-🚀 Projeto pessoal desenvolvido para apresentar minha trajetória acadêmica, habilidades técnicas e projetos na área de Desenvolvimento de Sistemas.
-
-✔ Design moderno e responsivo  
-✔ Apresentação de projetos e tecnologias  
-✔ Integração com GitHub e redes profissionais  
-
-🛠 Tecnologias utilizadas:  
-HTML • CSS • JavaScript • Node.js • GitHub  
-
-🔗 Acesse o projeto:  
-https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/
-
-### 💻 Nutri Ana Clara Almeida
-
-🧠 Projeto institucional na área da saúde e nutrição  
-✔ Site informativo profissional  
-✔ Layout moderno  
-
-🛠 Tecnologias utilizadas:  
-HTML • CSS • JavaScript • GitHub  
-
-🔗 Acesse o projeto:  
-🔗 https://nutri-ana-clara-almeida.github.io/nutrianaclara/
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco oportunidades na área de Tecnologia da Informação, com interesse em Desenvolvimento Front-end ou Back-end e Suporte Técnico, contribuindo com aprendizado contínuo, organização e soluções eficientes.
-
----
-
-## 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jeniffercarvalho">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:jeni.silva.sj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://wa.me/5521994267733">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-</p>
-
----
+- [LinkedIn](https://www.linkedin.com/in/jeniffercarvalho)
+- [Portfólio](https://jeniffercarvalho.github.io/portfoliojeniffercarvalho/)
+- [GitHub](https://github.com/jeniffercarvalho)
 
 <div align="center">
 
-⭐ Tecnologia é transformar problemas em soluções com eficiência e propósito ⭐
+*Aberta a oportunidades e conexões profissionais em tecnologia.*
 
 </div>
