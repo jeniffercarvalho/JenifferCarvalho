@@ -18,7 +18,7 @@ Construo aplicações web e sistemas de gestão, unindo desenvolvimento, anális
 
 Sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas** e tenho experiência profissional em suporte ao usuário, Help Desk e rotinas administrativas. Atualmente, desenvolvo projetos web com foco em aplicações úteis, organização de processos e solução de problemas reais.
 
-Tenho interesse em oportunidades júnior nas áreas de **Desenvolvimento Web** e **Análise de Sistemas**, além de posições que valorizem minha experiência em suporte técnico.
+Tenho interesse em oportunidades nas áreas de **Desenvolvimento Web** e **Análise de Sistemas**, além de posições que valorizem minha experiência em suporte técnico.
 
 ## Projeto em destaque
 
